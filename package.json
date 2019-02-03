@@ -1,0 +1,25 @@
+{
+  "name": "sandboxelectron",
+  "version": "1.0.0",
+  "description": "Application servant à voir les bases d'éléctron",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arimet/sandBoxElectron.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "Rimet Anthony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arimet/sandBoxElectron/issues"
+  },
+  "homepage": "https://github.com/arimet/sandBoxElectron#readme",
+  "devDependencies": {
+    "electron": "^4.0.4"
+  }
+}
