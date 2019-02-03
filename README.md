@@ -2,6 +2,8 @@
 
 This project was generated to introduce me to Electron.
 
+`electron .` on main folder to launch the application. 
+
 ## Step completed :
 
 - File Storage with `electron-store`
